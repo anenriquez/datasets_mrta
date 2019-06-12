@@ -1,0 +1,274 @@
+batches:
+  1:
+    28848d98-9099-4cb9-ac44-84cb94c7408c:
+      allocated_time_at_pickup: -1
+      delivery_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_15.94_Y_13.11
+        subAreas: []
+        type: ''
+      earliest_finish_time: 1540719640.5151823
+      earliest_start_time: 1540719637.851463
+      estimated_duration: 2.663719204420765
+      finish_time: -1
+      id: 28848d98-9099-4cb9-ac44-84cb94c7408c
+      latest_finish_time: 1540719645.5151823
+      latest_start_time: 1540719642.851463
+      loadId: ''
+      loadType: ''
+      pickup_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_13.39_Y_12.34
+        subAreas: []
+        type: ''
+      priority: 5
+      robot_actions: {}
+      start_time: -1
+      status:
+        completed_robot_actions: {}
+        current_robot_actions: {}
+        estimated_task_duration: 2.663719204420765
+        status: unallocated
+        task_id: 28848d98-9099-4cb9-ac44-84cb94c7408c
+      team_robot_ids: null
+  2:
+    2cc26bb8-42e9-4260-95ea-3db33dc2657d:
+      allocated_time_at_pickup: -1
+      delivery_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_16.47_Y_14.96
+        subAreas: []
+        type: ''
+      earliest_finish_time: 1540719641.267923
+      earliest_start_time: 1540719667.851463
+      estimated_duration: 3.416460156360673
+      finish_time: -1
+      id: 2cc26bb8-42e9-4260-95ea-3db33dc2657d
+      latest_finish_time: 1540719646.267923
+      latest_start_time: 1540719672.851463
+      loadId: ''
+      loadType: ''
+      pickup_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_13.56_Y_13.17
+        subAreas: []
+        type: ''
+      priority: 5
+      robot_actions: {}
+      start_time: -1
+      status:
+        completed_robot_actions: {}
+        current_robot_actions: {}
+        estimated_task_duration: 3.416460156360673
+        status: unallocated
+        task_id: 2cc26bb8-42e9-4260-95ea-3db33dc2657d
+      team_robot_ids: null
+  3:
+    a8cb66fa-63d3-40af-9c90-0a704a8a3e34:
+      allocated_time_at_pickup: -1
+      delivery_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_16.93_Y_12.69
+        subAreas: []
+        type: ''
+      earliest_finish_time: 1540719641.7976005
+      earliest_start_time: 1540719697.851463
+      estimated_duration: 3.9461373518923537
+      finish_time: -1
+      id: a8cb66fa-63d3-40af-9c90-0a704a8a3e34
+      latest_finish_time: 1540719646.7976005
+      latest_start_time: 1540719702.851463
+      loadId: ''
+      loadType: ''
+      pickup_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_15.27_Y_16.27
+        subAreas: []
+        type: ''
+      priority: 5
+      robot_actions: {}
+      start_time: -1
+      status:
+        completed_robot_actions: {}
+        current_robot_actions: {}
+        estimated_task_duration: 3.9461373518923537
+        status: unallocated
+        task_id: a8cb66fa-63d3-40af-9c90-0a704a8a3e34
+      team_robot_ids: null
+  4:
+    fca976df-205f-477a-80f8-b476d234e8f9:
+      allocated_time_at_pickup: -1
+      delivery_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_16.03_Y_13.08
+        subAreas: []
+        type: ''
+      earliest_finish_time: 1540719641.4015899
+      earliest_start_time: 1540719727.851463
+      estimated_duration: 3.5501267583003275
+      finish_time: -1
+      id: fca976df-205f-477a-80f8-b476d234e8f9
+      latest_finish_time: 1540719646.4015899
+      latest_start_time: 1540719732.851463
+      loadId: ''
+      loadType: ''
+      pickup_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_16.0_Y_16.63
+        subAreas: []
+        type: ''
+      priority: 5
+      robot_actions: {}
+      start_time: -1
+      status:
+        completed_robot_actions: {}
+        current_robot_actions: {}
+        estimated_task_duration: 3.5501267583003275
+        status: unallocated
+        task_id: fca976df-205f-477a-80f8-b476d234e8f9
+      team_robot_ids: null
+  5:
+    20b6251a-4d5d-4332-9414-f55bdf96f524:
+      allocated_time_at_pickup: -1
+      delivery_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_8.07_Y_8.28
+        subAreas: []
+        type: ''
+      earliest_finish_time: 1540719641.607325
+      earliest_start_time: 1540719757.851463
+      estimated_duration: 3.7558620847949147
+      finish_time: -1
+      id: 20b6251a-4d5d-4332-9414-f55bdf96f524
+      latest_finish_time: 1540719646.607325
+      latest_start_time: 1540719762.851463
+      loadId: ''
+      loadType: ''
+      pickup_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_5.48_Y_11.0
+        subAreas: []
+        type: ''
+      priority: 5
+      robot_actions: {}
+      start_time: -1
+      status:
+        completed_robot_actions: {}
+        current_robot_actions: {}
+        estimated_task_duration: 3.7558620847949147
+        status: unallocated
+        task_id: 20b6251a-4d5d-4332-9414-f55bdf96f524
+      team_robot_ids: null
+  6:
+    81e549e0-4943-4cab-85a3-aadedb1c5d2c:
+      allocated_time_at_pickup: -1
+      delivery_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_3.33_Y_13.9
+        subAreas: []
+        type: ''
+      earliest_finish_time: 1540719639.955269
+      earliest_start_time: 1540719787.851463
+      estimated_duration: 2.1038060747131615
+      finish_time: -1
+      id: 81e549e0-4943-4cab-85a3-aadedb1c5d2c
+      latest_finish_time: 1540719644.955269
+      latest_start_time: 1540719792.851463
+      loadId: ''
+      loadType: ''
+      pickup_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_4.19_Y_11.98
+        subAreas: []
+        type: ''
+      priority: 5
+      robot_actions: {}
+      start_time: -1
+      status:
+        completed_robot_actions: {}
+        current_robot_actions: {}
+        estimated_task_duration: 2.1038060747131615
+        status: unallocated
+        task_id: 81e549e0-4943-4cab-85a3-aadedb1c5d2c
+      team_robot_ids: null
+  7:
+    bb0ee146-4f63-4628-9b6e-a077e3071fc9:
+      allocated_time_at_pickup: -1
+      delivery_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_5.6_Y_11.09
+        subAreas: []
+        type: ''
+      earliest_finish_time: 1540719641.3212469
+      earliest_start_time: 1540719817.851463
+      estimated_duration: 3.46978385493967
+      finish_time: -1
+      id: bb0ee146-4f63-4628-9b6e-a077e3071fc9
+      latest_finish_time: 1540719646.3212469
+      latest_start_time: 1540719822.851463
+      loadId: ''
+      loadType: ''
+      pickup_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_7.55_Y_8.22
+        subAreas: []
+        type: ''
+      priority: 5
+      robot_actions: {}
+      start_time: -1
+      status:
+        completed_robot_actions: {}
+        current_robot_actions: {}
+        estimated_task_duration: 3.46978385493967
+        status: unallocated
+        task_id: bb0ee146-4f63-4628-9b6e-a077e3071fc9
+      team_robot_ids: null
+  8:
+    ffe13656-083b-4238-95a8-d97e8f28b3ab:
+      allocated_time_at_pickup: -1
+      delivery_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_3.77_Y_7.41
+        subAreas: []
+        type: ''
+      earliest_finish_time: 1540719641.870443
+      earliest_start_time: 1540719847.851463
+      estimated_duration: 4.018979970091914
+      finish_time: -1
+      id: ffe13656-083b-4238-95a8-d97e8f28b3ab
+      latest_finish_time: 1540719646.870443
+      latest_start_time: 1540719852.851463
+      loadId: ''
+      loadType: ''
+      pickup_pose:
+        floorNumber: 0
+        id: ''
+        name: AMK_SDC-TGR-CR-4_X_4.78_Y_11.3
+        subAreas: []
+        type: ''
+      priority: 5
+      robot_actions: {}
+      start_time: -1
+      status:
+        completed_robot_actions: {}
+        current_robot_actions: {}
+        estimated_task_duration: 4.018979970091914
+        status: unallocated
+        task_id: ffe13656-083b-4238-95a8-d97e8f28b3ab
+      team_robot_ids: null
+dataset_id: SDC-TGR-CR-4_batch_size1

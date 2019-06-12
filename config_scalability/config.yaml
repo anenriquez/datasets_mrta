@@ -1,0 +1,216 @@
+ropods:
+  ropod_1:
+    id: ropod_1
+  ropod_10:
+    id: ropod_10
+  ropod_100:
+    id: ropod_100
+  ropod_11:
+    id: ropod_11
+  ropod_12:
+    id: ropod_12
+  ropod_13:
+    id: ropod_13
+  ropod_14:
+    id: ropod_14
+  ropod_15:
+    id: ropod_15
+  ropod_16:
+    id: ropod_16
+  ropod_17:
+    id: ropod_17
+  ropod_18:
+    id: ropod_18
+  ropod_19:
+    id: ropod_19
+  ropod_2:
+    id: ropod_2
+  ropod_20:
+    id: ropod_20
+  ropod_21:
+    id: ropod_21
+  ropod_22:
+    id: ropod_22
+  ropod_23:
+    id: ropod_23
+  ropod_24:
+    id: ropod_24
+  ropod_25:
+    id: ropod_25
+  ropod_26:
+    id: ropod_26
+  ropod_27:
+    id: ropod_27
+  ropod_28:
+    id: ropod_28
+  ropod_29:
+    id: ropod_29
+  ropod_3:
+    id: ropod_3
+  ropod_30:
+    id: ropod_30
+  ropod_31:
+    id: ropod_31
+  ropod_32:
+    id: ropod_32
+  ropod_33:
+    id: ropod_33
+  ropod_34:
+    id: ropod_34
+  ropod_35:
+    id: ropod_35
+  ropod_36:
+    id: ropod_36
+  ropod_37:
+    id: ropod_37
+  ropod_38:
+    id: ropod_38
+  ropod_39:
+    id: ropod_39
+  ropod_4:
+    id: ropod_4
+  ropod_40:
+    id: ropod_40
+  ropod_41:
+    id: ropod_41
+  ropod_42:
+    id: ropod_42
+  ropod_43:
+    id: ropod_43
+  ropod_44:
+    id: ropod_44
+  ropod_45:
+    id: ropod_45
+  ropod_46:
+    id: ropod_46
+  ropod_47:
+    id: ropod_47
+  ropod_48:
+    id: ropod_48
+  ropod_49:
+    id: ropod_49
+  ropod_5:
+    id: ropod_5
+  ropod_50:
+    id: ropod_50
+  ropod_51:
+    id: ropod_51
+  ropod_52:
+    id: ropod_52
+  ropod_53:
+    id: ropod_53
+  ropod_54:
+    id: ropod_54
+  ropod_55:
+    id: ropod_55
+  ropod_56:
+    id: ropod_56
+  ropod_57:
+    id: ropod_57
+  ropod_58:
+    id: ropod_58
+  ropod_59:
+    id: ropod_59
+  ropod_6:
+    id: ropod_6
+  ropod_60:
+    id: ropod_60
+  ropod_61:
+    id: ropod_61
+  ropod_62:
+    id: ropod_62
+  ropod_63:
+    id: ropod_63
+  ropod_64:
+    id: ropod_64
+  ropod_65:
+    id: ropod_65
+  ropod_66:
+    id: ropod_66
+  ropod_67:
+    id: ropod_67
+  ropod_68:
+    id: ropod_68
+  ropod_69:
+    id: ropod_69
+  ropod_7:
+    id: ropod_7
+  ropod_70:
+    id: ropod_70
+  ropod_71:
+    id: ropod_71
+  ropod_72:
+    id: ropod_72
+  ropod_73:
+    id: ropod_73
+  ropod_74:
+    id: ropod_74
+  ropod_75:
+    id: ropod_75
+  ropod_76:
+    id: ropod_76
+  ropod_77:
+    id: ropod_77
+  ropod_78:
+    id: ropod_78
+  ropod_79:
+    id: ropod_79
+  ropod_8:
+    id: ropod_8
+  ropod_80:
+    id: ropod_80
+  ropod_81:
+    id: ropod_81
+  ropod_82:
+    id: ropod_82
+  ropod_83:
+    id: ropod_83
+  ropod_84:
+    id: ropod_84
+  ropod_85:
+    id: ropod_85
+  ropod_86:
+    id: ropod_86
+  ropod_87:
+    id: ropod_87
+  ropod_88:
+    id: ropod_88
+  ropod_89:
+    id: ropod_89
+  ropod_9:
+    id: ropod_9
+  ropod_90:
+    id: ropod_90
+  ropod_91:
+    id: ropod_91
+  ropod_92:
+    id: ropod_92
+  ropod_93:
+    id: ropod_93
+  ropod_94:
+    id: ropod_94
+  ropod_95:
+    id: ropod_95
+  ropod_96:
+    id: ropod_96
+  ropod_97:
+    id: ropod_97
+  ropod_98:
+    id: ropod_98
+  ropod_99:
+    id: ropod_99
+task_allocator_zyre_params:
+  groups:
+  - TASK-ALLOCATION
+  message_types:
+  - TASK-ANNOUNCEMENT
+  - BID
+  - NO-BID
+  - ALLOCATION
+  - ROBOT-POSITION
+  - SCHEDULE
+  - CLEAN-SCHEDULE
+  - RESET
+  - START-TIME
+  - TASK-REQUEST
+  - TASK-VECTORS

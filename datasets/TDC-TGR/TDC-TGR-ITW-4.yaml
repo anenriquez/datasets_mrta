@@ -1,0 +1,283 @@
+dataset_id: TDC-TGR-ITW-4
+start_time: 1540719608.66719
+tasks:
+  1fe5e480-8421-496b-b310-cd2ed9c03365:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_6.86_Y_8.71
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719750
+    earliest_start_time: 1540719746
+    estimated_duration: 4
+    finish_time: -1
+    id: 1fe5e480-8421-496b-b310-cd2ed9c03365
+    latest_finish_time: 1540719755
+    latest_start_time: 1540719751
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_5.75_Y_4.86
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 4
+      status: unallocated
+      task_id: 1fe5e480-8421-496b-b310-cd2ed9c03365
+    team_robot_ids: null
+  4839b88c-9c39-477f-9c54-6e846bab332b:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_14.31_Y_8.01
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719947.0
+    earliest_start_time: 1540719943.0
+    estimated_duration: 4
+    finish_time: -1
+    id: 4839b88c-9c39-477f-9c54-6e846bab332b
+    latest_finish_time: 1540719952.0
+    latest_start_time: 1540719948.0
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_17.5_Y_10.43
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 4
+      status: unallocated
+      task_id: 4839b88c-9c39-477f-9c54-6e846bab332b
+    team_robot_ids: null
+  4eae79e4-1681-4219-bf4f-025fea529a39:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_5.62_Y_12.6
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719724
+    earliest_start_time: 1540719720
+    estimated_duration: 4
+    finish_time: -1
+    id: 4eae79e4-1681-4219-bf4f-025fea529a39
+    latest_finish_time: 1540719729
+    latest_start_time: 1540719725
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_6.56_Y_8.71
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 4
+      status: unallocated
+      task_id: 4eae79e4-1681-4219-bf4f-025fea529a39
+    team_robot_ids: null
+  61efc30a-da4d-4cec-a572-30547431bdd9:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_17.73_Y_6.55
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719934.0
+    earliest_start_time: 1540719930.0
+    estimated_duration: 4
+    finish_time: -1
+    id: 61efc30a-da4d-4cec-a572-30547431bdd9
+    latest_finish_time: 1540719939.0
+    latest_start_time: 1540719935.0
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_15.37_Y_9.78
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 4
+      status: unallocated
+      task_id: 61efc30a-da4d-4cec-a572-30547431bdd9
+    team_robot_ids: null
+  7c4581e3-631a-47e0-81cc-57ac5c40625a:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_6.28_Y_8.12
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719737
+    earliest_start_time: 1540719733
+    estimated_duration: 4
+    finish_time: -1
+    id: 7c4581e3-631a-47e0-81cc-57ac5c40625a
+    latest_finish_time: 1540719742
+    latest_start_time: 1540719738
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_5.24_Y_11.99
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 4
+      status: unallocated
+      task_id: 7c4581e3-631a-47e0-81cc-57ac5c40625a
+    team_robot_ids: null
+  b155397d-000d-4fd4-b95c-fbc01190b5a4:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_16.2_Y_10.14
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719960.0
+    earliest_start_time: 1540719956.0
+    estimated_duration: 4
+    finish_time: -1
+    id: b155397d-000d-4fd4-b95c-fbc01190b5a4
+    latest_finish_time: 1540719965.0
+    latest_start_time: 1540719961.0
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_13.85_Y_6.91
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 4
+      status: unallocated
+      task_id: b155397d-000d-4fd4-b95c-fbc01190b5a4
+    team_robot_ids: null
+  d714822c-32f2-43be-a006-e9faa708d5b8:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_14.57_Y_8.65
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719921.0
+    earliest_start_time: 1540719917.0
+    estimated_duration: 4
+    finish_time: -1
+    id: d714822c-32f2-43be-a006-e9faa708d5b8
+    latest_finish_time: 1540719926.0
+    latest_start_time: 1540719922.0
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_15.36_Y_4.73
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 4
+      status: unallocated
+      task_id: d714822c-32f2-43be-a006-e9faa708d5b8
+    team_robot_ids: null
+  e24e7c52-27a5-4600-9a75-fd292fa5ae4b:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_4.67_Y_6.82
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719763
+    earliest_start_time: 1540719759
+    estimated_duration: 4
+    finish_time: -1
+    id: e24e7c52-27a5-4600-9a75-fd292fa5ae4b
+    latest_finish_time: 1540719768
+    latest_start_time: 1540719764
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_TDC-TGR-ITW-4_X_5.19_Y_10.79
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 4
+      status: unallocated
+      task_id: e24e7c52-27a5-4600-9a75-fd292fa5ae4b
+    team_robot_ids: null

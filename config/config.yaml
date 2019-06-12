@@ -1,0 +1,24 @@
+ropods:
+  ropod_1:
+    id: ropod_1
+  ropod_2:
+    id: ropod_2
+  ropod_3:
+    id: ropod_3
+  ropod_4:
+    id: ropod_4
+task_allocator_zyre_params:
+  groups:
+  - TASK-ALLOCATION
+  message_types:
+  - TASK-ANNOUNCEMENT
+  - BID
+  - EMPTY-BID
+  - ALLOCATION
+  - ROBOT-POSITION
+  - SCHEDULE
+  - CLEAN-SCHEDULE
+  - RESET
+  - START-TIME
+  - TASK-REQUEST
+  - TASK-VECTORS

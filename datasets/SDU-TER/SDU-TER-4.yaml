@@ -1,0 +1,143 @@
+dataset_id: SDU-TER-4
+start_time: 1540719607.208073
+tasks:
+  591ee283-803a-449d-a5c6-d3d00776577d:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_SDU-TER-4_X_8.8_Y_12.45
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719651.6860735
+    earliest_start_time: 1540719637.208073
+    estimated_duration: 14.478000552562497
+    finish_time: -1
+    id: 591ee283-803a-449d-a5c6-d3d00776577d
+    latest_finish_time: 1540719656.6860735
+    latest_start_time: 1540719642.208073
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_SDU-TER-4_X_16.75_Y_0.35
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 14.478000552562497
+      status: unallocated
+      task_id: 591ee283-803a-449d-a5c6-d3d00776577d
+    team_robot_ids: null
+  996ea271-f65e-4d18-8aaa-e0111f23098c:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_SDU-TER-4_X_4.56_Y_12.11
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719644.0073743
+    earliest_start_time: 1540719637.208073
+    estimated_duration: 6.799301434706363
+    finish_time: -1
+    id: 996ea271-f65e-4d18-8aaa-e0111f23098c
+    latest_finish_time: 1540719649.0073743
+    latest_start_time: 1540719642.208073
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_SDU-TER-4_X_11.32_Y_11.38
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 6.799301434706363
+      status: unallocated
+      task_id: 996ea271-f65e-4d18-8aaa-e0111f23098c
+    team_robot_ids: null
+  a2b65b09-5489-4e3a-94e9-1325d1f7650f:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_SDU-TER-4_X_15.76_Y_19.42
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719643.5657218
+    earliest_start_time: 1540719637.208073
+    estimated_duration: 6.357648936517335
+    finish_time: -1
+    id: a2b65b09-5489-4e3a-94e9-1325d1f7650f
+    latest_finish_time: 1540719648.5657218
+    latest_start_time: 1540719642.208073
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_SDU-TER-4_X_9.5_Y_18.31
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 6.357648936517335
+      status: unallocated
+      task_id: a2b65b09-5489-4e3a-94e9-1325d1f7650f
+    team_robot_ids: null
+  f71ffb87-8cbf-48a5-8fe9-4e2c9d5aaf59:
+    pickup_start_time: -1
+    cart_id: ''
+    cart_type: mobidik
+    delivery_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_SDU-TER-4_X_1.83_Y_14.12
+      subAreas: []
+      type: ''
+    earliest_finish_time: 1540719650.238261
+    earliest_start_time: 1540719637.208073
+    estimated_duration: 13.030188026271915
+    finish_time: -1
+    id: f71ffb87-8cbf-48a5-8fe9-4e2c9d5aaf59
+    latest_finish_time: 1540719655.238261
+    latest_start_time: 1540719642.208073
+    loadId: ''
+    loadType: ''
+    pickup_pose:
+      floorNumber: 0
+      id: ''
+      name: AMK_SDU-TER-4_X_14.86_Y_14.05
+      subAreas: []
+      type: ''
+    priority: 5
+    robot_actions: {}
+    start_time: -1
+    status:
+      completed_robot_actions: {}
+      current_robot_actions: {}
+      estimated_task_duration: 13.030188026271915
+      status: unallocated
+      task_id: f71ffb87-8cbf-48a5-8fe9-4e2c9d5aaf59
+    team_robot_ids: null
